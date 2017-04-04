@@ -68,6 +68,7 @@ Sources to be checked/added to specific countries:
 - Wind: [GWEC](http://www.gwec.net/publications/global-wind-report-2/global-wind-report-2015-annual-market-update/): Global wind energy data 2015
 - Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf): European industry report 2016. Also contains some EU neighbour data.
 
+Sources per country:
 - Albania:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Austria:
