@@ -66,7 +66,7 @@ Real-time electricity data is obtained using [parsers](https://github.com/corrad
 Production capacities are centralized in the [capacities.json](https://github.com/corradio/electricitymap/blob/master/web/app/configs/capacities.json) file.
 
 Sources covering multiple countries (only used when specifically listed for a country):
-- Wind: [GWEC](http://www.gwec.net/wp-content/uploads/vip/GWEC_PRstats2016_EN_WEB.pdf): Global wind energy data 2016. 
+- Wind: [GWEC](http://www.gwec.net/wp-content/uploads/vip/GWEC_PRstats2016_EN_WEB.pdf): Global wind energy data 2016. Not as extensive as the 2015 report. 
 - Wind: [GWEC](http://www.gwec.net/publications/global-wind-report-2/global-wind-report-2015-annual-market-update/): Global wind energy data 2015.
 - Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf): European industry report 2016. Also contains some EU neighbour data. Published 2017/2
 - Solar: [IEA-PVPS](http://www.iea-pvps.org/fileadmin/dam/public/report/PICS/IEA-PVPS_-__A_Snapshot_of_Global_PV_-_1992-2015_-_Final_2_02.pdf) Global solar energy data 2015
@@ -169,7 +169,7 @@ Sources per country:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show):  2017 data available (Checked on 2017/4/4)  
 - Northern Ireland:
 	- [EIR Grid](http://www.eirgridgroup.com/site-files/library/EirGrid/Generation_Capacity_Statement_20162025_FINAL.pdf)
-	- [IWEA](http://www.iwea.com/_windenergy_onshore): Data from 2016/12/20 (Checked on 2017/4/4)
+	- Wind: [IWEA](http://www.iwea.com/_windenergy_onshore): Data from 2016/12/20 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Norway:
 	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
