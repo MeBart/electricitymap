@@ -19,9 +19,9 @@ The carbon intensity of each type of power plant takes into account emissions ar
 
 Country-specific carbon-intensity factors:
 
-- Estonia:
 
-- Oil Shale: [EASAC (2007) "A study on the EU oil shale industry – viewed in the light of the Estonian experience"](www.easac.eu/fileadmin/PDF_s/reports_statements/Study.pdf)
+- Estonia:
+  - Oil Shale: [EASAC (2007) "A study on the EU oil shale industry – viewed in the light of the Estonian experience"](www.easac.eu/fileadmin/PDF_s/reports_statements/Study.pdf)
 - Norway:
   - Hydro: [Ostford Research (2015) "The inventory and life cycle data for Norwegian hydroelectricity"](http://ostfoldforskning.no/en/publications/Publication/?id=1236)
 
@@ -69,6 +69,8 @@ Sources to be checked/added to specific countries:
 - Wind: [GWEC](http://www.gwec.net/wp-content/uploads/vip/GWEC_PRstats2016_EN_WEB.pdf): Global wind energy data 2016. 
 - Wind: [GWEC](http://www.gwec.net/publications/global-wind-report-2/global-wind-report-2015-annual-market-update/): Global wind energy data 2015.
 - Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf): European industry report 2016. Also contains some EU neighbour data.
+- Solar: [IEA-PVPS](http://www.iea-pvps.org/fileadmin/dam/public/report/PICS/IEA-PVPS_-__A_Snapshot_of_Global_PV_-_1992-2015_-_Final_2_02.pdf) Global solar energy data 2015
+- Solar: [IEA-PVPS](http://www.iea-pvps.org/index.php?id=3&eID=dam_frontend_push&docID=3390) Global solar energy data 2016
 
 Sources per country:
 - Albania:
