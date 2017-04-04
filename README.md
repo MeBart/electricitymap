@@ -19,7 +19,8 @@ The carbon intensity of each type of power plant takes into account emissions ar
 
 Country-specific carbon-intensity factors:
 - Estonia:
-  - Oil Shale: [EASAC (2007) "A study on the EU oil shale industry – viewed in the light of the Estonian experience"](www.easac.eu/fileadmin/PDF_s/reports_statements/Study.pdf)
+
+- Oil Shale: [EASAC (2007) "A study on the EU oil shale industry – viewed in the light of the Estonian experience"](www.easac.eu/fileadmin/PDF_s/reports_statements/Study.pdf)
 - Norway:
   - Hydro: [Ostford Research (2015) "The inventory and life cycle data for Norwegian hydroelectricity"](http://ostfoldforskning.no/en/publications/Publication/?id=1236)
 
@@ -62,6 +63,11 @@ Real-time electricity data is obtained using [parsers](https://github.com/corrad
 
 ### Production capacity data sources
 Production capacities are centralized in the [capacities.json](https://github.com/corradio/electricitymap/blob/master/web/app/configs/capacities.json) file.
+
+Sources to be checked/added to specific countries:
+- Wind: [GWEC](http://www.gwec.net/publications/global-wind-report-2/global-wind-report-2015-annual-market-update/): Global wind energy data 2015
+- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf): European industry report 2016. Also contains some EU neighbour data.
+
 - Albania:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Austria:
