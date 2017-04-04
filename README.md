@@ -65,78 +65,99 @@ Real-time electricity data is obtained using [parsers](https://github.com/corrad
 ### Production capacity data sources
 Production capacities are centralized in the [capacities.json](https://github.com/corradio/electricitymap/blob/master/web/app/configs/capacities.json) file.
 
-Sources to be checked/added to specific countries:
+Sources covering multiple countries (only used when specifically listed for a country):
 - Wind: [GWEC](http://www.gwec.net/wp-content/uploads/vip/GWEC_PRstats2016_EN_WEB.pdf): Global wind energy data 2016. 
 - Wind: [GWEC](http://www.gwec.net/publications/global-wind-report-2/global-wind-report-2015-annual-market-update/): Global wind energy data 2015.
-- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf): European industry report 2016. Also contains some EU neighbour data.
+- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf): European industry report 2016. Also contains some EU neighbour data. Published 2017/2
 - Solar: [IEA-PVPS](http://www.iea-pvps.org/fileadmin/dam/public/report/PICS/IEA-PVPS_-__A_Snapshot_of_Global_PV_-_1992-2015_-_Final_2_02.pdf) Global solar energy data 2015
 - Solar: [IEA-PVPS](http://www.iea-pvps.org/index.php?id=3&eID=dam_frontend_push&docID=3390) Global solar energy data 2016
+- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show) European data.
 
 Sources per country:
 - Albania:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Austria:
-	- Wind: [IGWindKraft](https://www.igwindkraft.at)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Belarus:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Belgium:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Bosnia and Herzegovina:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data ( Checked on 2017/4/4)
 - Bulgaria:
 	- [wikipedia.org](https://en.wikipedia.org/wiki/Energy_in_Bulgaria)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Croatia:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Cyprus:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Czech Republic:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Denmark:
 	- Solar: [wikipedia.org](https://en.wikipedia.org/wiki/Solar_power_in_Denmark)
-	- Wind: [wikipedia.org](https://en.wikipedia.org/wiki/Wind_power_in_Denmark#Capacities_and_production)  
+	- Wind: [wikipedia.org](https://en.wikipedia.org/wiki/Wind_power_in_Denmark#Capacities_and_production)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)  
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2016 data available (Checked on 2017/4/4)
 - Estonia:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2016 data available (Checked on 2017/4/4)
 - Finland:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - France:
-  - Solar: [wikipedia.org](https://en.wikipedia.org/wiki/Solar_power_by_country)
-  - Wind: [EWEA](http://www.ewea.org/fileadmin/files/library/publications/statistics/EWEA-Annual-Statistics-2015.pdf)
+	- Solar: [wikipedia.org](https://en.wikipedia.org/wiki/Solar_power_by_country)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [RTE](http://clients.rte-france.com/lang/an/visiteurs/vie/prod/parc_reference.jsp)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Germany:
 	- [Fraunhoffer] (https://energy-charts.de/power_inst.htm)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Great Britain:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Greece:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Hungary:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Iceland:
 	- [Statistics Iceland](http://px.hagstofa.is/pxen/pxweb/en/Atvinnuvegir/Atvinnuvegir__orkumal/IDN02101.px)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
-- Ireland:
-	- Wind: [IWEA](http://www.iwea.com/index.cfm/page/windenergyfaqs?#q21)
+- Ireland:	
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Italy:
 	- Hydro: [wikipedia.org](https://en.wikipedia.org/wiki/Electricity_sector_in_Italy)
 	- Nuclear: [wikipedia.org](https://en.wikipedia.org/wiki/Electricity_sector_in_Italy)
 	- Solar: [wikipedia.org](https://en.wikipedia.org/wiki/Electricity_sector_in_Italy)
 	- Wind: [wikipedia.org](https://en.wikipedia.org/wiki/Electricity_sector_in_Italy)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Latvia:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Lithouania:
 	- [ENMIN](https://enmin.lrv.lt/en/sectoral-policy/renewable-energy-sources)
-  - Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
+	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Luxembourg:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Macedonia:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Malta:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Moldova:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
@@ -144,38 +165,52 @@ Sources per country:
 	- [EPCG](http://www.epcg.com/en/about-us/production-facilities)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Netherlands:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show):  2017 data available (Checked on 2017/4/4)  
 - Northern Ireland:
 	- [EIR Grid](http://www.eirgridgroup.com/site-files/library/EirGrid/Generation_Capacity_Statement_20162025_FINAL.pdf)
+	- [IWEA](http://www.iwea.com/_windenergy_onshore): Data from 2016/12/20 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Norway:
-	- Wind: [ieawind.org](http://www.ieawind.org/countries/norway.html)  
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Poland:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Portugal:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Romania:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Russia:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Serbia:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Slovakia:
 	- [SEPS](https://www.sepsas.sk/Dokumenty/RocenkySed/ROCENKA_SED_2015.pdf)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Slovenia:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Spain:
 	- [ree.es](http://www.ree.es/sites/default/files/downloadable/preliminary_report_2014.pdf)
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Sweden:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Switzerland:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Turkey:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Ukraine:
+	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 
 ### Electricity prices (day-ahead) data sources

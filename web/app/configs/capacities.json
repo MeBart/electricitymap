@@ -26,7 +26,7 @@
             "gas": 4466,
             "unknown": 56,
             "solar": 723,
-            "wind": 2696
+            "wind": 2632
         }
     },
 	"BA": { 
@@ -56,7 +56,7 @@
             "gas": 5448,
             "unknown": 0,
             "solar": 2953,
-            "wind": 2271
+            "wind": 2386
         }
     },	
 	"BG": {
@@ -71,7 +71,7 @@
             "gas": 721, 
             "unknown": 0, 
             "solar": 275, 
-            "wind": 358 
+            "wind": 691 
         }
     },
 	"BY": { 
@@ -86,7 +86,7 @@
             "gas": 0,
             "unknown": 0,
             "solar": 0,
-            "wind": 0
+            "wind": 3
         }
     },
 	"CH": {
@@ -101,7 +101,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 75 
         }
     },
 	"CY": {
@@ -131,7 +131,7 @@
             "gas": 1606, 
             "unknown": 400, 
             "solar": 2027, 
-            "wind": 277 
+            "wind": 281 
         }
     },
 	"DE": {
@@ -146,7 +146,7 @@
             "gas": 27921, 
             "unknown": 3945, 
             "solar": 39350, 
-            "wind": 50942 
+            "wind": 50019 
         }
     },
 	"DK": { 
@@ -161,7 +161,7 @@
             "gas": 2941, 
             "unknown": 88, 
             "solar": 601, 
-            "wind": 4845 
+            "wind": 5227 
         }
     },
 	"EE": { 
@@ -176,7 +176,7 @@
             "gas": 205, 
             "unknown": 7, 
             "solar": 1, 
-            "wind": 375 
+            "wind": 310 
         }
     },
 	"ES": { 
@@ -191,7 +191,7 @@
             "gas": 30723, 
             "unknown": 360, 
             "solar": 6720, 
-            "wind": 22813 
+            "wind": 23075 
         }
     },
 	"FI": {
@@ -206,7 +206,7 @@
             "gas": 1795, 
             "unknown": 648, 
             "solar": 0, 
-            "wind": 1432 
+            "wind": 1539 
         }
     },
 	"FR": {
@@ -221,7 +221,7 @@
             "gas": 6696, 
             "unknown": 302, 
             "solar": 378, 
-            "wind": 1579 
+            "wind": 12065 
         }
     },
 	"GB": {
@@ -236,7 +236,7 @@
             "gas": 29237, 
             "unknown": 6222, 
             "solar": 0, 
-            "wind": 10800 
+            "wind": 14542 
         }
     },
 	"GB-NIR": { 
@@ -251,7 +251,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 850 
         }
     },
 	"GR": {
@@ -266,7 +266,7 @@
             "gas": 5245, 
             "unknown": 69, 
             "solar": 2441, 
-            "wind": 1875 
+            "wind": 2374 
         }
     },
 	"HR": { 
@@ -281,7 +281,7 @@
             "gas": 0,
             "unknown": 0,
             "solar": 0,
-            "wind": 0
+            "wind": 329
         }
     },
 	"HU": {
@@ -312,7 +312,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 3 
         }
     },	
 	"IE": {
@@ -327,7 +327,7 @@
             "gas": 4265, 
             "unknown": 647, 
             "solar": 0, 
-            "wind": 1920 
+            "wind": 2830 
         }
     },	
 	"IT": {
@@ -342,7 +342,7 @@
             "gas": 40814, 
             "unknown": 1710, 
             "solar": 4659, 
-            "wind": 9024 
+            "wind": 9257 
         }
     },	
 	"LV": {
@@ -357,7 +357,7 @@
             "gas": 1124, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 53 
+            "wind": 63 
         }
     },
 	"LT": {
@@ -372,7 +372,7 @@
             "gas": 1656, 
             "unknown": 119, 
             "solar": 80, 
-            "wind": 426 
+            "wind": 493 
         }
     },
 	
@@ -388,7 +388,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 58 
         }
     },	
 	"MD": { 
@@ -433,7 +433,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 35 
+            "wind": 37 
         }
     },
 	"MT": {
@@ -463,7 +463,7 @@
             "gas": 19297, 
             "unknown": 0, 
             "solar": 2039, 
-            "wind": 4117 
+            "wind": 4328 
         }
     },
 	"NO": {
@@ -478,7 +478,7 @@
             "gas": 611, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 873 
+            "wind": 838 
         }
     },
 	"PL": {
@@ -493,7 +493,7 @@
             "gas": 1596, 
             "unknown": 0, 
             "solar": 187, 
-            "wind": 6026 
+            "wind": 5782 
         }
     },
 	"PT": {
@@ -508,7 +508,7 @@
             "gas": 4657, 
             "unknown": 60, 
             "solar": 261, 
-            "wind": 5028 
+            "wind": 5316 
         }
     },
 	
@@ -524,7 +524,7 @@
             "gas": 5020, 
             "unknown": 0, 
             "solar": 1210, 
-            "wind": 2985 
+            "wind": 3028 
         }
     },
 	"RU": {
@@ -539,7 +539,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 15 
         }
     },
 	"RS": {
@@ -554,7 +554,7 @@
             "gas": 3, 
             "unknown": 428, 
             "solar": 4, 
-            "wind": 17 
+            "wind": 10 
         }
     },
 	"SE": {
@@ -569,7 +569,7 @@
             "gas": 0, 
             "unknown": 8035, 
             "solar": 0, 
-            "wind": 5960 
+            "wind": 6519 
         }
     },
 	"SK": { 
@@ -584,10 +584,10 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 3 
         }
     },
-	"SL": {
+	"SI": {
        "capacity": {
             "biomass": 57, 
             "oil": 58, 
@@ -614,7 +614,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 6081 
         }
     },	
 	"UA": { 
@@ -629,7 +629,7 @@
             "gas": 0, 
             "unknown": 0, 
             "solar": 0, 
-            "wind": 0 
+            "wind": 526
         }
     }
 }
