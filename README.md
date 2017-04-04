@@ -18,6 +18,7 @@ The carbon intensity of each type of power plant takes into account emissions ar
 - IPCC 2014 Assessment Report is used as reference in most instances (see a summary in the [wikipedia entry](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources#2014_IPCC.2C_Global_warming_potential_of_selected_electricity_sources))
 
 Country-specific carbon-intensity factors:
+
 - Estonia:
 
 - Oil Shale: [EASAC (2007) "A study on the EU oil shale industry – viewed in the light of the Estonian experience"](www.easac.eu/fileadmin/PDF_s/reports_statements/Study.pdf)
@@ -65,7 +66,8 @@ Real-time electricity data is obtained using [parsers](https://github.com/corrad
 Production capacities are centralized in the [capacities.json](https://github.com/corradio/electricitymap/blob/master/web/app/configs/capacities.json) file.
 
 Sources to be checked/added to specific countries:
-- Wind: [GWEC](http://www.gwec.net/publications/global-wind-report-2/global-wind-report-2015-annual-market-update/): Global wind energy data 2015
+- Wind: [GWEC](http://www.gwec.net/wp-content/uploads/vip/GWEC_PRstats2016_EN_WEB.pdf): Global wind energy data 2016. 
+- Wind: [GWEC](http://www.gwec.net/publications/global-wind-report-2/global-wind-report-2015-annual-market-update/): Global wind energy data 2015.
 - Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf): European industry report 2016. Also contains some EU neighbour data.
 
 Sources per country:
