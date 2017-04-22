@@ -121,6 +121,7 @@ Sources per country:
 	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Great Britain:
+	- Solar: [University of Sheffield] https://www.solar.sheffield.ac.uk/pvlive/# Reports 12GW installed solar; find National Grid source.
 	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Greece:
@@ -135,6 +136,7 @@ Sources per country:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Ireland:	
 	- Wind: [Windeurope](https://windeurope.org/wp-content/uploads/files/about-wind/statistics/WindEurope-Annual-Statistics-2016.pdf) Data published 2017/2 (Checked on 2017/4/4)
+	- Multiple: [SEM-O](http://www.sem-o.com/Publications/General/Registered%20Capacity%20Report%20February%2017.xls) Data published 2017/2 Possible source for multiple capacities.
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): 2017 data available (Checked on 2017/4/4)
 - Italy:
 	- Hydro: [wikipedia.org](https://en.wikipedia.org/wiki/Electricity_sector_in_Italy)
@@ -169,6 +171,7 @@ Sources per country:
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show):  2017 data available (Checked on 2017/4/4)  
 - Northern Ireland:
 	- [EIR Grid](http://www.eirgridgroup.com/site-files/library/EirGrid/Generation_Capacity_Statement_20162025_FINAL.pdf)
+	- Multiple: [SEM-O](http://www.sem-o.com/Publications/General/Registered%20Capacity%20Report%20February%2017.xls) Data published 2017/2 Possible source for multiple capacities.
 	- Wind: [IWEA](http://www.iwea.com/_windenergy_onshore): Data from 2016/12/20 (Checked on 2017/4/4)
 	- Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show): No data (Checked on 2017/4/4)
 - Norway:
